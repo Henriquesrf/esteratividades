@@ -10,7 +10,7 @@ if (alunos[0].idade < 6) {
 
  console.log(alunos[0].nome + " Educação Infantil");
 
-} else if (alunos[0].idade > 6 && alunos[0].idade <= 10)
+} else if (alunos[0].idade > 6. && alunos[0].idade <= 10)
 
  console.log(alunos[0].nome + " Ensino Fundamental I");
 
